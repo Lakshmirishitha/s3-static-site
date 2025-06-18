@@ -49,9 +49,4 @@ Successfully built and deployed a live static website with automated deployment 
 **Jinka Lakshmi Rishitha**
 """
 
-# Save to a README.md file
-readme_path = "/mnt/data/README_Rishitha_StaticSite.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
 
-readme_path
